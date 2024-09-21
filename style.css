@@ -1,0 +1,22 @@
+#Fixed{
+border:1px solid black;
+position: Fixed;
+}
+#Sticky {
+border: 1px solid green;
+position:sticky;
+}
+#relative {
+border: 1px solid red;
+position: relative;
+}
+#absolute{
+border: 1px solid blue;
+    position: absolute;
+}
+#opc{
+width: 200px;
+height: 200px;
+background-color:orange;
+opacity:1;
+}
